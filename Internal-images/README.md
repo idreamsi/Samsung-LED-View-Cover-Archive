@@ -1,1 +1,1 @@
-All images are from (device.report)[https://device.report/samsung].
+All images are from [device.report](https://device.report/samsung).
