@@ -9,4 +9,8 @@ An archive of internal images, other information, efforts, etc. about the Samsun
 
 [3]. How does the LED Cover work? [Source](https://xdaforums.com/t/samsung-led-cover-teardown-pictures.3946523/)
 
+[4]. A small android application for S10 showing third-party application controling the Samsung LEDBack cover. [Source](https://github.com/axel7083/LEDBack-cover)
+
+
+
 This section will be updated.
