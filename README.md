@@ -11,7 +11,7 @@ An archive of internal images, other information, efforts, etc. about the Samsun
 
 [4]. A small android application for S10 showing third-party application controling the Samsung LEDBack cover. [Source](https://github.com/axel7083/LEDBack-cover)
 
-[5]. Samsung SCover SDK Reverse Engineering. [Source]([https://github.com/axel7083/LEDBack-cover](https://github.com/fonix232/SCoverRE))
+[5]. Samsung SCover SDK Reverse Engineering. [Source](https://github.com/fonix232/SCoverRE)
 
 
 
